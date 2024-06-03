@@ -14,7 +14,8 @@
   <a href="https://stackoverflow.com/users/20246324/ersozberk" title="StackOverflow - Berk Ersoz"><img src="https://img.shields.io/badge/-Berk_Ersoz-0072b1%3F?style=flat&logo=Stackoverflow&logoColor=white&labelColor=orange&color=orange" /></a>
   <a href="https://www.linkedin.com/in/berkersoz7" title="LinkedIn - Berk Ersoz"><img src="https://img.shields.io/badge/-Berk_Ersoz-0072b1%3F?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&color=blue" /></a>
 
-  <a href="https://master-cl4t.vercel.app" title="Personal Website - berkersoz.com"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://master-cl4t.vercel.app" title="Personal Website - berkersoz.com"><img src="https://img.shields.io/badge/-www.berkersoz.com-0072b1%253F%3F?style=flat&logo=Twitter&logoColor=white&labelColor=red&color=ed
+" /></a>
   </kbd>
 </p>
 
@@ -29,7 +30,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Berk Ersoz" />
+      <img align="right" width="250" src="https://i.ibb.co/bBZT109/Ekran-Resmi-2024-06-03-08-59-56.png" alt="Berk Ersoz" />
       
 <blockquote>
 
