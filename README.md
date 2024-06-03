@@ -3,18 +3,18 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:alicia@omg.lol" title="Email Address"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org" title="Matrix User ID"><code>@lissy93:matrix.org</code></a>
+<a href="mailto:alicia@omg.lol" title="Email Address"><code>ersozberk at gmail dot com</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org" title="Matrix User ID"><code>@lissy93:matrix.org</code></a>
 </p>
 
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://dev.to/lissy93" title="Dev.to - @Lissy93"><img src="https://img.shields.io/badge/-Lissy93-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/979052/alicia" title="StackOverflow - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Berk1284822" title="Twitter - @Berk1284822"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://dev.to/berk_ersoz" title="Dev.to - @berk_ersoz"><img src="https://img.shields.io/badge/-Lissy93-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/20246324/ersozberk" title="StackOverflow - Berk Ersoz"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/berkersoz7" title="LinkedIn - Berk Ersoz"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
-  <a href="https://aliciasykes.com" title="Personal Website - aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://master-cl4t.vercel.app" title="Personal Website - berkersoz.com"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
 
@@ -29,15 +29,15 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Berk Ersoz" />
       
 <blockquote>
 
-I software engineer based in London UK. And I love writing code!
+I software engineer based in Izmir TR. And I love writing code!
   
 I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
-I also enjoy attending ([and sometimes winning](https://notes.aliciasykes.com/p/0s5s3uOtKj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
+I also enjoy attending hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
 
 I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
 
@@ -50,34 +50,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   </p>
 </details>
   
-  
-<!-- Blog Posts -->
-<details>
-  <summary><b>📰 Latest Blog Posts</b></summary>
-    <p>
-       
-<a href="https://notes.aliciasykes.com"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="Alicia Sykes Blog" /></a>
-      
-      
-<!-- BLOG-POST-LIST:START -->
-- [Berk ersoz is pretty cool 🆒](https://notes.aliciasykes.com/51203/astro-is-pretty-cool)
-- [Astro is pretty cool 🆒](https://notes.aliciasykes.com/51203/astro-is-pretty-cool)
-- [My thoughts on Tailwind 🍃](https://notes.aliciasykes.com/49557/my-thoughts-on-tailwind)
-- [Project Ideas: Agile 💡](https://notes.aliciasykes.com/48239/project-ideas-agile)
-- [Trying out Solid.js 🍰](https://notes.aliciasykes.com/48068/trying-out-solid-js)
-- [50 ways to bring in extra cash as a developer  💰](https://notes.aliciasykes.com/47804/50-ways-to-bring-in-extra-cash-as-a-developer)
-- [SvelteKit 1.0 - Building a Blog that fetches from RSS 🦄](https://notes.aliciasykes.com/42764/sveltekit-1-0-building-a-blog-that-fetches-from-rss)
-- [20 Amazing Collections for Self-Taught Developers 🎓](https://notes.aliciasykes.com/42310/20-amazing-collections-for-self-taught-developers)
-- [CLI tools you can&#39;t live without 🔧](https://notes.aliciasykes.com/41983/cli-tools-you-can-t-live-without)
-<!-- BLOG-POST-LIST:END -->
-
-➡️  **[More Posts](/BLOG-POSTS.md)**
-
-----
-
-</p>
-</details>
-
+ 
 
 <!-- Tech Stack -->  
 <details>
