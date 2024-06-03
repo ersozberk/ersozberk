@@ -74,7 +74,4 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
   </p>
 </details>
-  
 
-
--->
