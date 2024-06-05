@@ -14,7 +14,7 @@
   <a href="https://stackoverflow.com/users/20246324/ersozberk" title="StackOverflow - Berk Ersoz"><img src="https://img.shields.io/badge/-Berk_Ersoz-0072b1%3F?style=flat&logo=Stackoverflow&logoColor=white&labelColor=orange&color=orange" /></a>
   <a href="https://www.linkedin.com/in/berkersoz7" title="LinkedIn - Berk Ersoz"><img src="https://img.shields.io/badge/-Berk_Ersoz-0072b1%3F?style=flat&logo=Linkedin&logoColor=white&labelColor=blue&color=blue" /></a>
 
-  <a href="https://master-cl4t.vercel.app" title="Personal Website - berkersoz.com"><img src="https://img.shields.io/badge/-www.berkersoz.com-0072b1%253F%3F?style=flat&logo=Twitter&logoColor=white&labelColor=red&color=ed" /></a>
+  <a href="http://berk-ersoz.vercel.app" title="Personal Website - berkersoz.com"><img src="https://img.shields.io/badge/-www.berkersoz.com-0072b1%253F%3F?style=flat&logo=Twitter&logoColor=white&labelColor=red&color=ed" /></a>
   </kbd>
 </p>
 
