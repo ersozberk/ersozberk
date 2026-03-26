@@ -48,5 +48,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ersozberk&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersozberk&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
