@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Currently building **Noly Market**, a real-time prediction market platform.
+- 🚀 Currently building **Awesome Turkiye**, the digital map of Turkey's tech & open-source ecosystem.
 - 🧠 Specializing in **AI integrations** (Computer Vision, Face Recognition) and **Hardware/Robotics** (EEG-controlled systems, ROVs).
 - 🛠️ Passionate about **Clean Architecture**, SEO-optimized web infrastructures, and high-performance automation.
 - 🌱 Constantly learning and scaling architectures using **Go, TypeScript, and Python**.
