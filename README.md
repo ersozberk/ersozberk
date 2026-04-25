@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Berk 👋</h1>
-<h3 align="center">Full Stack Engineer | AI & Robotics Researcher</h3>
+<h3 align="center">Computer Engineer | AI & Robotics Researcher</h3>
 
 <p align="center">
   Building scalable SaaS products, architecting AI-powered systems, and solving complex problems with clean code. Based in Izmir, TR. 📍
